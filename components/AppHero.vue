@@ -120,7 +120,6 @@ const options: any = {
 .hero__title {
   font-size: 4rem;
   font-weight: 500;
-  margin-bottom: 1.5rem;
   line-height: 1;
 }
 
